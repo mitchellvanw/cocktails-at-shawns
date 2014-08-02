@@ -2,6 +2,8 @@ Cocktails at Shawn's
 ===================
 
 * [Grey Goose Le Fizz](#grey-goose-le-fizz)
+* [Cosmopolitan](#cosmopolitan)
+* [Friday Night Frenzy](#friday-night-frenzy)
 
 # The Cocktails
 
@@ -11,11 +13,12 @@ This will be the first cocktail of the night. Rather than using champaign or pro
 
 ### Ingredients
 
+**Glass:** Flute (tall glass)
+
 * Lime
 * Grey Goose Vodka
 * St-Germain Elderflower Liqueur
 * Soda water (bubbly)
-* Tall glass
 
 ### One person
 
@@ -37,6 +40,8 @@ The second drink of the night. It's a classic cocktail, but cannot be forgotten 
 
 ### Ingredients
 
+**Glass:** Cocktail glass
+
 * Lime
 * Orange Vodka (Grey Goose)
 * Orange liqueur (Cointreau)
@@ -56,4 +61,23 @@ The second drink of the night. It's a classic cocktail, but cannot be forgotten 
 * **250ml**   Cranberry juice
 * **250ml**  Lime juice (5 limes)
 
+## Friday Night Frenzy
+
+Number three! Lets add some spice to this party!
+
+### Ingredients
+
+* Lime
+* Agave
+* Tequila
+* Red chili pepper
+* Pink grapefruit juice
+
+### Ten people
+
+* **400ml**   Tequila
+* **150ml**   Lime juice (3 limes)
+* **150ml**   Pink grapefruit juice
+* **150ml**   Agave
+* **1**       Red chili pepper (cut in long strips)
 

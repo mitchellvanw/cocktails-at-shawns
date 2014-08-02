@@ -67,10 +67,13 @@ Number three! Lets add some spice to this party!
 
 ### Ingredients
 
+**Glass:** Vintage
+
 * Lime
 * Agave
 * Tequila
 * Red chili pepper
+* Italian prosecco
 * Pink grapefruit juice
 
 ### Ten people
@@ -80,4 +83,5 @@ Number three! Lets add some spice to this party!
 * **150ml**   Pink grapefruit juice
 * **150ml**   Agave
 * **1**       Red chili pepper (cut in long strips)
+* Top it off with prosecco
 

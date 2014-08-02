@@ -16,8 +16,8 @@ This will be the first cocktail of the night. Rather than using champaign or pro
 
 ### One person
 
-* 25ml lime juice
-* 25ml St-Germain Elderflower Liqueur
+* *25ml*  lime juice
+* *25ml*  St-Germain Elderflower Liqueur
 
 ### Ten people
 

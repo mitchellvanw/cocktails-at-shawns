@@ -15,6 +15,7 @@ This will be the first cocktail of the night. Rather than using champaign or pro
 * Grey Goose Vodka
 * St-Germain Elderflower Liqueur
 * Soda water (bubbly)
+* Tall glass
 
 ### One person
 
@@ -25,6 +26,8 @@ This will be the first cocktail of the night. Rather than using champaign or pro
 
 ### Ten people
 
+* **250ml**  Lime juice (5 limes)
+* **250ml**  St-Germain Elderflower Liqueur
+* **500ml**  Grey Goose Vodka
+* Top the drinks off with enought soda water
 
-
-50ml lime juice per lime

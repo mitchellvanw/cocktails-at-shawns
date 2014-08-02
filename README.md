@@ -5,7 +5,7 @@ Cocktails at Shawn's
 * [Cosmopolitan](#cosmopolitan)
 * [Friday Night Frenzy](#friday-night-frenzy)
 * [Mojito](#mojito)
-* [Aviation](#aviation)
+* [Aviation](#aviation) (optional)
 
 # The Cocktails
 

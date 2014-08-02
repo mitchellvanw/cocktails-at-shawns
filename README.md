@@ -31,3 +31,29 @@ This will be the first cocktail of the night. Rather than using champaign or pro
 * **500ml**  Grey Goose Vodka
 * Top the drinks off with enought soda water
 
+## Cosmopolitan
+
+The second drink of the night. It's a classic cocktail, but cannot be forgotten on a great night.
+
+### Ingredients
+
+* Lime
+* Orange Vodka (Grey Goose)
+* Orange liqueur (Cointreau)
+* Cranberry juice
+
+### One person
+
+* **50ml**  Orange Vodka (Grey Goose)
+* **25ml**  Orange liqueur (Cointreau)
+* **25ml**  Cranberry juice
+* **25ml**  Lime juice
+
+### Ten people
+
+* **500ml**   Orange Vodka (Grey Goose)
+* **250ml**   Orange liqueur (Cointreau)
+* **250ml**   Cranberry juice
+* **250ml**  Lime juice (5 limes)
+
+

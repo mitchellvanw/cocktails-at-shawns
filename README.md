@@ -1,4 +1,15 @@
-cocktails-at-shawns
+Cocktails at Shawn's
 ===================
 
-Cocktails
+* [Grey Goose Le Fizz](#grey-goose-le-fizz)
+
+# Recipes
+
+## Grey Goose Le Fizz
+
+### Ingredients
+
+### One person
+
+### Ten people
+

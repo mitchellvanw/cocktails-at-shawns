@@ -4,6 +4,7 @@ Cocktails at Shawn's
 * [Grey Goose Le Fizz](#grey-goose-le-fizz)
 * [Cosmopolitan](#cosmopolitan)
 * [Friday Night Frenzy](#friday-night-frenzy)
+* [Mojito](#mojito)
 
 # The Cocktails
 

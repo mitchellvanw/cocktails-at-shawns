@@ -3,7 +3,7 @@ Cocktails at Shawn's
 
 * [Grey Goose Le Fizz](#grey-goose-le-fizz)
 
-# Recipes
+# The Cocktails
 
 ## Grey Goose Le Fizz
 
@@ -11,7 +11,13 @@ This will be the first cocktail of the night. Rather than using champaign or pro
 
 ### Ingredients
 
+* St-Germain Elderflower Liqueur
+* Lime
+
 ### One person
+
+* 25ml lime juice
+* 25ml St-Germain Elderflower Liqueur
 
 ### Ten people
 

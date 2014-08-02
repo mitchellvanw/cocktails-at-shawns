@@ -5,12 +5,15 @@ Cocktails at Shawn's
 * [Cosmopolitan](#cosmopolitan)
 * [Friday Night Frenzy](#friday-night-frenzy)
 * [Mojito](#mojito)
+* [Aviation](#aviation)
 
 # The Cocktails
 
 ## Grey Goose Le Fizz
 
 This will be the first cocktail of the night. Rather than using champaign or prosecco as a welcome drink, we'll serve this bubbly, refreshing and beautiful cocktail.
+
+> Use extra strainer when pooring
 
 ### Ingredients
 
@@ -34,6 +37,7 @@ This will be the first cocktail of the night. Rather than using champaign or pro
 * **250ml**  St-Germain Elderflower Liqueur
 * **500ml**  Grey Goose Vodka
 * Top the drinks up with enought soda water
+
 
 ## Cosmopolitan
 
@@ -62,6 +66,7 @@ The second drink of the night. It's a classic cocktail, but cannot be forgotten 
 * **250ml**   Cranberry juice
 * **250ml**   Lime juice (5 limes)
 
+
 ## Friday Night Frenzy
 
 Number three! Lets add some spice to this party!
@@ -86,6 +91,7 @@ Number three! Lets add some spice to this party!
 * **1**       Red chili pepper (cut in long strips)
 * Top it up with prosecco
 
+
 ## Mojito
 
 Finally! There it is! The one and only... MOJITO!
@@ -98,7 +104,6 @@ Finally! There it is! The one and only... MOJITO!
 * Soda water (bubbly)
 * White rum (Bacardi Superior)
 
-
 ### One person
 
 * **1 slice of 1cm thick (cut in 4 pieces) **   Lime
@@ -110,3 +115,26 @@ Then with a flat surfaced object.. give it 8 nice and gentle squashes.
 * **50ml**  White rum (Bacardi Superior)
 * **Fill 3 quarters** Crushed ice
 * Top it up with soda water
+
+
+## Aviation
+
+At the end of the evening... when we feel like flying..
+
+> Use extra strainer when pooring
+
+### Ingredients
+
+* Lemon
+* Violet Liqueur
+* Maraschino Liqueur
+* Bombay Sapphire Gin (blue bottle)
+* Baby cherry
+
+### One person
+
+* **15ml**  Lemon juice
+* **50ml**  Bombay Sapphire Gin
+* **15ml**  Maraschino Liqueur
+* **5-8ml** Violet Liqueur
+* **1**     Baby cherry
